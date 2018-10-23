@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+     padding:0;
+      box-sizing: border-box;
+    
+}
+.all{
+    position: absolute;
+    width: 100%;
+}
+.top{
+    width: 100%;
+    position: relative;
+    background: #D84F4B;
+    height: 80px;
+    -webkit-box-shadow:0px 1px 5px 2px rgba(0,0,0,0.24);
+   -moz-box-shadow:0px 1px 5px 2px rgba(0,0,0,0.24);
+    box-shadow:0px 1px 5px 2px rgba(0,0,0,0.24);
+
+
+}
+nav{
+  position: relative;
+    top: 24px;
+}
+.top nav ul li{
+    list-style: none;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 30px;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.logo{
+      position: relative;
+      width:150px;
+      bottom: 8px;
+      vertical-align: middle;
+    cursor: pointer;
+   
+
+}
+.loading{
+    position: relative;
+    left: 450px;
+    top: 100px;
+}
+.Mostrar{
+    margin: 0;
+    padding: 10px;
+    padding-top:40px;
+    padding-bottom:27px;
+    color: white;
+     font-family: 'Raleway';
+}
+.Nuevo{
+    margin: 0;
+  
+    padding: 10px;
+    padding-top:40px;
+    padding-bottom:27px;
+    color: white;
+     font-family: 'Raleway';
+}
+
+
+.encabezado h2 span{ 
+    color: #3664aa;
+    font-size: 35px;
+     
+}
+
+h2{
+    font-family: 'Raleway';
+    color: white;
+}
+.Formulario{
+    position: relative;
+    top: 60px;
+}
+
+.Formulario h2{
+    color: black;
+    text-align: center;
+}
